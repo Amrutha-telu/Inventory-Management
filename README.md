@@ -84,8 +84,8 @@ The rest of the program works fine without Pillow — image viewing will just be
 ## Low Stock Threshold
 
 By default, products with quantity below **10** trigger a low-stock alert. This can be changed by editing the `LOW_STOCK_THRESHOLD` constant near the top of `inventory_management.py`.
-##Author
+## Author
 Name:Telu Amrutha
 Project: Inventory Management
-##License
+## License
 This project was developed for educational and academic purpose
