@@ -1,0 +1,8 @@
+product_id,name,category,price,quantity,supplier,image_path
+P001,Bluetooth,Electronics,2500.0,1,Motorola,
+P002,iphone 16pro,Electronics,132999.0,1,apple,
+P003,Galaxy S25 Ultra,Electronics,136999.0,1,Samsung,
+P004,Dolby audios,Electronics,6499.0,3,Mivi,
+P005,Watch,Electronics,6599.0,1,Fastrack,
+P006,Bluetooth,1,1299.0,1,One plus,
+P007,Mobile,Electronics,23000.0,1,vivo,/
